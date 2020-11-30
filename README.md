@@ -1,6 +1,6 @@
-# boilerplate-auth-react-redux
+# Portfolio
 
-A boilerplate for a react web app with a redux global store and authorisation. This project has two objectives, the first of which is to further my understanding of authorisation while scratch building a full stack web app boilerplate based on the stack taught at Enspiral Dev Academy (EDA), the second objective is to provide a boilerplate for me and my fellow graduates to use in our personal projects going forward.
+This project is my portfolio for my web development and other development, to show case my skills and samples of my work. 
 
 ## .env
 
